@@ -1,5 +1,5 @@
 <?php function render_head($title) { ?>
-
+<!-- Hello test for commit -->
 <!DOCTYPE html>
 <html>
 <head>
